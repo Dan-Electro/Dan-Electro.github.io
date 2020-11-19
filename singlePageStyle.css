@@ -372,6 +372,10 @@ div h5{
     text-align : center;
     cursor: pointer;
 }
+.return-top {
+    margin: 0 auto;
+    text-align : center;
+}
 #cv-conteneur{
     width : 300px;
     height : 300px;
